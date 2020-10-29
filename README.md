@@ -1,2 +1,2 @@
 # AED
-# Códigos desenvolvidos na disciplina de Algorítmo e Estrutura de Dados
+# Códigos desenvolvidos na disciplina de Algoritmo e Estrutura de Dados
